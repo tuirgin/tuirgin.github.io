@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on On the Backs of Turtles</title>
-    <link>http://tuirgin.com/categories/</link>
+    <link>https://tuirgin.com/categories/</link>
     <description>Recent content in Categories on On the Backs of Turtles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>tuirgin.blog@gmail.com (Christopher D. Walborn)</webMaster>
     <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
     
-	<atom:link href="http://tuirgin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tuirgin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Living in the World</title>
-      <link>http://tuirgin.com/categories/living-in-the-world/</link>
+      <link>https://tuirgin.com/categories/living-in-the-world/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
       <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
-      <guid>http://tuirgin.com/categories/living-in-the-world/</guid>
+      <guid>https://tuirgin.com/categories/living-in-the-world/</guid>
       <description></description>
     </item>
     
