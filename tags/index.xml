@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on On the Backs of Turtles</title>
+    <link>http://tuirgin.com/tags/</link>
+    <description>Recent content in Tags on On the Backs of Turtles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tuirgin.blog@gmail.com (Christopher D. Walborn)</managingEditor>
+    <webMaster>tuirgin.blog@gmail.com (Christopher D. Walborn)</webMaster>
+    <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://tuirgin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Granny Weatherwax</title>
+      <link>http://tuirgin.com/tags/granny-weatherwax/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
+      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <guid>http://tuirgin.com/tags/granny-weatherwax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus</title>
+      <link>http://tuirgin.com/tags/jesus/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
+      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <guid>http://tuirgin.com/tags/jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>http://tuirgin.com/tags/love/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
+      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <guid>http://tuirgin.com/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sin</title>
+      <link>http://tuirgin.com/tags/sin/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
+      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <guid>http://tuirgin.com/tags/sin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terry Pratchett</title>
+      <link>http://tuirgin.com/tags/terry-pratchett/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0400</pubDate>
+      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <guid>http://tuirgin.com/tags/terry-pratchett/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

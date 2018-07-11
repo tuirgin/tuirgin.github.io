@@ -1,0 +1,300 @@
+h1 {
+    font-size: 2.3em !important;
+}
+blockquote {
+    font-style: normal;
+    color: #333;
+    margin: 1em;
+    border-left: solid 0.1em #cecece;
+    padding: 0.5em 2em;
+    position: relative;
+    background-color: #efefef;
+    box-shadow: 0 -1px 0 #bbbbbb inset;
+}
+
+blockquote::before {
+    content: "\f10d";
+    font-size: 2em;
+    font-family: "FontAwesome";
+    color: rgba(192, 192, 192, 0.3);
+    position: absolute;
+    left: 6px;
+    top: 0;
+}
+
+@media only screen and (max-width: 800px) {
+    blockquote {
+        margin: 1em 0;
+        padding: 0.5em;
+    }
+}
+
+
+p.poem-line {padding: 0; margin: 0;}
+
+p.poem-1 {
+	margin-top: 1em;
+	text-indent: -2em;
+	padding-left: 4em;
+}
+p.poem-1b {
+	margin-top: 1em;
+	text-indent: 6em;
+	padding-left: 4em;
+}
+p.poem-1i {
+	margin-top: 1em;
+	text-indent: -2em;
+	padding-left: 5em;
+	font-style: italic;
+}
+p.poem-1i em {
+	font-style: normal;
+}
+p.poem-2 {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 4em;
+}
+p.poem-2a {
+	margin-top: 1em;
+        margin-bottom: 0;
+	text-indent: -2em;
+	padding-left: 4em;
+}
+p.poem-2b {
+	margin: 0;
+	text-indent: 12em;
+	padding-left: 4em;
+}
+p.poem-2c {
+	margin-top: 0;
+	text-indent: -2em;
+	padding-left: 5em;
+}
+p.poem-2i {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 5em;
+	font-style: italic;
+}
+p.poem-2i em {
+	font-style: normal;
+}
+
+p.poem-2d {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 5em;
+}
+
+p.poem-3 {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 7em;
+}
+p.poem-3a {
+	margin-top: 1em;
+	text-indent: -2em;
+	padding-left: 7em;
+}
+p.poem-3i {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 8em;
+	font-style: italic;
+}
+p.poem-3i em {
+	font-style: normal;
+}
+p.poem-4 {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 9em;
+}
+p.poem-4i {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 10em;
+	font-style: italic;
+}
+p.poem-4i em {
+	font-style: normal;
+}
+p.poem-5 {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 11em;
+}
+p.poem-5i {
+	margin: 0;
+	text-indent: -2em;
+	padding-left: 12em;
+	font-style: italic;
+}
+p.poem-5i em {
+	font-style: normal;
+}
+p.poem-bottom {
+	margin-bottom: 1em;
+}
+p.poem-top {
+	margin-top: 1em;
+}
+p.poem-center {
+	text-align: center;
+	font-style: italic;
+	margin: 0;
+}
+p.poem-center-top {
+	margin-top: 1em;
+	text-align: center;
+	font-style: italic;
+}
+p.poem-center-bottom {
+	padding-bottom: 1em;
+	text-align: center;
+	font-style: italic;
+}
+p.poem-center em, p.poem-center-top, p.poem-center-bottom em {
+	font-style: normal;
+}
+.poem-interstitial {
+	font-style: italic;
+	margin-top: 1em;
+	text-indent: 0;
+	page-break-after: avoid;
+}
+.poem-interstitial em {
+	font-style: normal;
+}
+.poem-title {
+	text-align: center;
+	text-indent: 0;
+        font-size: 1.2em;
+        font-weight: bold;
+}
+.poem-date {
+        font-size: .9em;
+}
+.work-ref {
+	text-align: right;
+	margin-right: 2em;
+	margin-bottom: 1em;
+	font-style: italic;
+	font-size: .8em;
+}
+span.poem-line-b {
+	padding-left: 4em;
+}
+span.poem-line-c {
+	padding-left: 8em;
+}
+span.poem-line-d {
+	padding-left: 12em;
+}
+div.poem {
+	margin: 1em 0 2em 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+}
+p.poem-author {
+	text-indent: 0;
+	text-align: center;
+	font-style: italic;
+}
+.poem-title, .poem-date {
+	text-align: center;
+	text-indent: 0;
+}
+
+p.poem-1 span.poem-lnum, p.poem-2 span.poem-lnum {
+	display: block;
+	float: left;
+	margin-left: -5em;
+	font-size: .8em;
+	text-align: right;
+}
+p.poem-2b span.poem-lnum {
+	display: block;
+	float: left;
+	margin-left: -21.75em;
+	font-size: .8em;
+	text-align: right;
+}
+
+p.poem-4 span.poem-lnum {
+	display: block;
+	float: left;
+	margin-left: -6.3em;
+	font-size: .8em;
+	text-align: right;
+}
+
+p.poem-3 span.poem-lnum {
+	display: block;
+	float: left;
+	margin-left: -7.5em;
+	font-size: .8em;
+	text-align: right;
+}
+
+span.poem-gloss {
+	display: block;
+	float: right;
+	text-align: right;
+	font-style: italic;
+	font-size: .8em;
+	margin-left: 5em;
+	padding-top: 2px;
+	width: 100px;
+}
+
+.site-header div {
+    height: 100px;
+}
+
+hr.fancy {
+	position: relative;
+	margin-top: 10px;
+	background: #fff;
+  height: 15px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+hr.fanc::before {
+    display: block;
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    left: 10%;
+    margin: -9px 0% 0% -6px;
+    content: "\2756\2003\2756\2003\2756";
+    font-size: 100%;
+    padding: 0 8px;
+    background: white;
+}
+
+hr.fancy::before {
+    content: "\2756\2003\2756\2003\2756";
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    text-align: center;
+    border: 0;
+    background-color: #fff;
+}
+hr.fancy {
+    background-color: #fff;
+    border: 0;
+}
+hr.fancy-poem::before {
+    content: "\2756\2003\2756\2003\2756\2003";
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    text-align: center;
+    border: 0;
+    background-color: #fff;
+}
