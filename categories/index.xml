@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on On the Backs of Turtles</title>
-    <link>https://tuirgin.com/categories/</link>
+    <link>https://www.tuirgin.com/categories/</link>
     <description>Recent content in Categories on On the Backs of Turtles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,33 +10,33 @@
     <webMaster>tuirgin.blog@gmail.com (Christopher D. Walborn)</webMaster>
     <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
     
-	<atom:link href="https://tuirgin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.tuirgin.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Food</title>
-      <link>https://tuirgin.com/categories/food/</link>
+      <link>https://www.tuirgin.com/categories/food/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 -0400</pubDate>
       <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
-      <guid>https://tuirgin.com/categories/food/</guid>
+      <guid>https://www.tuirgin.com/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Living in the World</title>
-      <link>https://tuirgin.com/categories/living-in-the-world/</link>
+      <link>https://www.tuirgin.com/categories/living-in-the-world/</link>
       <pubDate>Sun, 08 Jul 2018 14:48:00 +0000</pubDate>
       <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
-      <guid>https://tuirgin.com/categories/living-in-the-world/</guid>
+      <guid>https://www.tuirgin.com/categories/living-in-the-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>https://tuirgin.com/categories/writing/</link>
+      <link>https://www.tuirgin.com/categories/writing/</link>
       <pubDate>Sat, 22 Aug 2015 10:45:18 +0000</pubDate>
       <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
-      <guid>https://tuirgin.com/categories/writing/</guid>
+      <guid>https://www.tuirgin.com/categories/writing/</guid>
       <description></description>
     </item>
     
