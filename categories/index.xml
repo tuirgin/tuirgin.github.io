@@ -6,8 +6,8 @@
     <description>Recent content in Categories on On the Backs of Turtles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>tuirgin.blog@gmail.com (Christopher D. Walborn)</managingEditor>
-    <webMaster>tuirgin.blog@gmail.com (Christopher D. Walborn)</webMaster>
+    <managingEditor>blog@tuirgin.com (Christopher D. Walborn)</managingEditor>
+    <webMaster>blog@tuirgin.com (Christopher D. Walborn)</webMaster>
     <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
     
 	<atom:link href="https://www.tuirgin.com/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Food</title>
       <link>https://www.tuirgin.com/categories/food/</link>
       <pubDate>Sat, 26 May 2018 00:00:00 -0400</pubDate>
-      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
       <guid>https://www.tuirgin.com/categories/food/</guid>
       <description></description>
     </item>
@@ -26,7 +26,7 @@
       <title>Living in the World</title>
       <link>https://www.tuirgin.com/categories/living-in-the-world/</link>
       <pubDate>Sun, 08 Jul 2018 14:48:00 +0000</pubDate>
-      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
       <guid>https://www.tuirgin.com/categories/living-in-the-world/</guid>
       <description></description>
     </item>
@@ -35,7 +35,7 @@
       <title>Writing</title>
       <link>https://www.tuirgin.com/categories/writing/</link>
       <pubDate>Sat, 22 Aug 2015 10:45:18 +0000</pubDate>
-      <author>tuirgin.blog@gmail.com (Christopher D. Walborn)</author>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
       <guid>https://www.tuirgin.com/categories/writing/</guid>
       <description></description>
     </item>
