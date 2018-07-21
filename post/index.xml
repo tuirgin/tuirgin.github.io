@@ -24,9 +24,9 @@
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.tuirgin.com/images/5_triangles_red-160x120.png&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.tuirgin.com/img/5_triangles_red-160x120.png&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;https://www.tuirgin.com/images/5_triangles_red-160x120.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;https://www.tuirgin.com/img/5_triangles_red-160x120.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 
@@ -163,6 +163,16 @@ lessons have been the most cherished. &lt;/p&gt;</description>
 beliefs have changed since that time. The core message stands. I refuse to
 believe that God is worse than me. I refuse to believe that God is a monster.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Besogo Test</title>
+      <link>https://www.tuirgin.com/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/post/test/</guid>
+      <description>This is a test of Besogo. 
+(;FF[4]GM[1]SZ[9]AB[bb:dd]AW[ee][ff][gg]C[&#34;Wut?&#34;] )  besogo.autoInit() </description>
     </item>
     
   </channel>

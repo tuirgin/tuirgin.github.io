@@ -64,6 +64,15 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/baduk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/post/test/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/bible/</loc>
     <lastmod>2018-07-10T21:58:28-04:00</lastmod>
     <priority>0</priority>
@@ -135,6 +144,11 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/categories/games/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/george-macdonald/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
@@ -143,6 +157,11 @@
   <url>
     <loc>https://www.tuirgin.com/tags/gk-chesterton/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/go/</loc>
     <priority>0</priority>
   </url>
   
@@ -293,6 +312,11 @@
   <url>
     <loc>https://www.tuirgin.com/tags/thought/</loc>
     <lastmod>2018-07-10T21:58:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/weiqi/</loc>
     <priority>0</priority>
   </url>
   

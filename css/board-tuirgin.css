@@ -1,0 +1,10 @@
+.besogo-board {
+    border: 1px solid #555 !important;
+}
+.go {
+    background-color: inherit;
+    padding: 0 1em;
+    margin: 0;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
