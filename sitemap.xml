@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuirgin.com/post/20180721-the_self/</loc>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/post/20180708-openness_of_thought/</loc>
     <lastmod>2018-07-10T21:58:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tuirgin.com/post/20180607-peoples_stories/</loc>
-    <lastmod>2018-06-07T00:00:00-04:00</lastmod>
+    <lastmod>2018-07-21T10:14:26-04:00</lastmod>
   </url>
   
   <url>
@@ -100,6 +105,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/community/</loc>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/cs-lewis/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
@@ -148,6 +159,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/identity/</loc>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/jesus/</loc>
     <lastmod>2018-07-10T20:13:46-04:00</lastmod>
     <priority>0</priority>
@@ -155,7 +172,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/lbgtq&#43;/</loc>
-    <lastmod>2018-06-07T00:00:00-04:00</lastmod>
+    <lastmod>2018-07-21T10:14:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,7 +184,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/categories/living-in-the-world/</loc>
-    <lastmod>2018-07-10T21:58:28-04:00</lastmod>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,7 +196,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/masculinity/</loc>
-    <lastmod>2018-06-07T00:00:00-04:00</lastmod>
+    <lastmod>2018-07-21T10:14:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,7 +214,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/</loc>
-    <lastmod>2018-07-10T21:58:28-04:00</lastmod>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,7 +232,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/post/</loc>
-    <lastmod>2018-07-10T21:58:28-04:00</lastmod>
+    <lastmod>2018-07-21T11:28:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,7 +250,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/relationships/</loc>
-    <lastmod>2018-06-07T00:00:00-04:00</lastmod>
+    <lastmod>2018-07-21T10:14:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   

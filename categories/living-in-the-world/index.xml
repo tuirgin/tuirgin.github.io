@@ -9,10 +9,32 @@
     <managingEditor>blog@tuirgin.com (Christopher D. Walborn)</managingEditor>
     <webMaster>blog@tuirgin.com (Christopher D. Walborn)</webMaster>
     <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 14:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.tuirgin.com/categories/living-in-the-world/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Self</title>
+      <link>https://www.tuirgin.com/post/20180721-the_self/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 -0400</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/post/20180721-the_self/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.tuirgin.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.tuirgin.com/images/5_triangles_red-160x120.png&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://www.tuirgin.com/images/5_triangles_red-160x120.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This week I noticed an interesting question on Quora: &lt;a href=&#34;https://www.quora.com/Do-we-exist&#34;&gt;Do we exist?&lt;/a&gt; When I
+followed the link I was expecting to see Descartes, and no doubt if I poked a
+little further I&amp;rsquo;d find him. Instead, &lt;a href=&#34;https://www.quora.com/Do-we-exist/answer/Hannah-Yang-4&#34;&gt;what I found&lt;/a&gt; was a lovely illustration
+using a handful of geometrically arranged toothpics. &lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Openness of Thought—Doubting Conviction</title>

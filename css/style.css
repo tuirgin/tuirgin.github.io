@@ -29,6 +29,16 @@ blockquote::before {
     }
 }
 
+figure {
+    padding: 1em;
+}
+
+figcaption > p {
+    font-size: 0.8em;
+    text-align: center;
+    padding-top: .7em;
+    font-style: italic;
+}
 
 p.poem-line {padding: 0; margin: 0;}
 
@@ -298,3 +308,4 @@ hr.fancy-poem::before {
     border: 0;
     background-color: #fff;
 }
+
