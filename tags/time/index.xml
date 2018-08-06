@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time on On the Backs of Turtles</title>
+    <link>https://www.tuirgin.com/tags/time/</link>
+    <description>Recent content in Time on On the Backs of Turtles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>blog@tuirgin.com (Christopher D. Walborn)</managingEditor>
+    <webMaster>blog@tuirgin.com (Christopher D. Walborn)</webMaster>
+    <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.tuirgin.com/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Time and Value</title>
+      <link>https://www.tuirgin.com/post/20180805-journal-time/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 -0400</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/post/20180805-journal-time/</guid>
+      <description>I am 5. I have my whole life before me. What will I become? A fireman. A policeman. A construction worker.
+I am 15. I have my whole life before me. What will I become? A lawyer. An architect. An inventor.
+I am 21. I have my whole life before me. What will I become? A writer. An artist. A god.
+I am 44. I have lived more than half my life.</description>
+    </item>
+    
+  </channel>
+</rss>
