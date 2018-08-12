@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuirgin.com/post/20180812-recipe-creamy_garlic_dressing/</loc>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/post/20180805-time_value/</loc>
     <lastmod>2018-08-05T21:40:44-04:00</lastmod>
   </url>
@@ -147,7 +152,13 @@
   
   <url>
     <loc>https://www.tuirgin.com/categories/food/</loc>
-    <lastmod>2018-07-10T22:11:39-04:00</lastmod>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/garlic/</loc>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,7 +248,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -255,7 +266,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/post/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,7 +278,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/recipes/</loc>
-    <lastmod>2018-07-10T22:11:39-04:00</lastmod>
+    <lastmod>2018-08-12T14:12:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
