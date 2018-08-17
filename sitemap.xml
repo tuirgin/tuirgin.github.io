@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuirgin.com/post/20180817-journal-john_clare/</loc>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/post/20180815-journal-poetry/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:16-04:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://www.tuirgin.com/post/20180812-recipe-creamy_garlic_dressing/</loc>
     <lastmod>2018-08-12T14:12:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tuirgin.com/post/20180805-time_value/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
   </url>
   
   <url>
@@ -78,20 +78,8 @@
   </url>
   
   <url>
-    <loc>https://www.tuirgin.com/tags/age/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tuirgin.com/tags/anastasia/</loc>
     <lastmod>2018-07-10T22:54:38-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tuirgin.com/tags/aspirations/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,6 +185,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/human-dignity/</loc>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/identity/</loc>
     <lastmod>2018-07-21T11:28:07-04:00</lastmod>
     <priority>0</priority>
@@ -216,7 +210,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/categories/journal/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,7 +228,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/categories/living-in-the-world/</loc>
-    <lastmod>2018-08-14T16:58:34-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,20 +251,20 @@
   </url>
   
   <url>
-    <loc>https://www.tuirgin.com/tags/mortality/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tuirgin.com/tags/narnia/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/nature/</loc>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -282,13 +276,13 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/poetry/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.tuirgin.com/post/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -336,7 +330,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
+    <lastmod>2018-07-10T22:54:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -353,14 +347,8 @@
   </url>
   
   <url>
-    <loc>https://www.tuirgin.com/tags/time/</loc>
-    <lastmod>2018-08-05T21:40:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tuirgin.com/categories/writing/</loc>
-    <lastmod>2018-08-15T13:41:41-04:00</lastmod>
+    <lastmod>2018-08-17T14:46:16-04:00</lastmod>
     <priority>0</priority>
   </url>
   
