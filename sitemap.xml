@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuirgin.com/post/20180825-loneliness/</loc>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/post/20180825-memorizing_mandelshtam/</loc>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/post/20180824-casaubons_incredulity_and_negative_capability/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/post/20180817-journal-john_clare/</loc>
     <lastmod>2018-08-17T14:46:41-04:00</lastmod>
   </url>
@@ -142,6 +157,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/conversation/</loc>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/cs-lewis/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
@@ -166,6 +187,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/foucaults-pendulum/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/garlic/</loc>
     <lastmod>2018-08-12T14:12:54-04:00</lastmod>
     <priority>0</priority>
@@ -180,6 +207,12 @@
   <url>
     <loc>https://www.tuirgin.com/tags/gk-chesterton/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/glyn-maxwell/</loc>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,6 +237,12 @@
   <url>
     <loc>https://www.tuirgin.com/tags/identity/</loc>
     <lastmod>2018-07-21T11:28:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/incredulity/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,8 +277,20 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/categories/life-in-the-world/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/categories/living-in-the-world/</loc>
-    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/loneliness/</loc>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -262,6 +313,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/memorization/</loc>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/narnia/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
@@ -274,8 +331,26 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/negative-capability/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/on-poetry/</loc>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/</loc>
-    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/osip-mandelshtam/</loc>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,13 +362,13 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/poetry/</loc>
-    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.tuirgin.com/post/</loc>
-    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -346,6 +421,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/tension/</loc>
+    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/terry-pratchett/</loc>
     <lastmod>2018-07-10T20:13:46-04:00</lastmod>
     <priority>0</priority>
@@ -364,8 +445,14 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/umberto-eco/</loc>
+    <lastmod>2018-08-26T00:39:38-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/categories/writing/</loc>
-    <lastmod>2018-08-17T14:46:16-04:00</lastmod>
+    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   

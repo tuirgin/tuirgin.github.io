@@ -272,7 +272,7 @@ span.poem-gloss {
 hr.fancy {
 	position: relative;
 	margin-top: 10px;
-	background: #fff;
+	/* background: #fff; */
   height: 15px;
   margin-left: 15%;
   margin-right: 15%;
@@ -287,7 +287,7 @@ hr.fanc::before {
     content: "\2756\2003\2756\2003\2756";
     font-size: 100%;
     padding: 0 8px;
-    background: white;
+    /* background: white; */
 }
 
 hr.fancy::before {
@@ -297,10 +297,10 @@ hr.fancy::before {
     display: block;
     text-align: center;
     border: 0;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 hr.fancy {
-    background-color: #fff;
+    /* background-color: #fff; */
     border: 0;
 }
 hr.fancy-poem::before {
@@ -310,6 +310,6 @@ hr.fancy-poem::before {
     display: block;
     text-align: center;
     border: 0;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
