@@ -46,6 +46,11 @@ besogo-container {
 
 p.poem-line {padding: 0; margin: 0;}
 
+p.poem-0 {
+    margin-top: 0;
+    text-indent: 1em;
+}
+
 p.poem-1 {
 	margin-top: 1em;
 	text-indent: -2em;

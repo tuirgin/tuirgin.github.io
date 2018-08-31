@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tuirgin.com/post/20180830-keats-to_my_brothers/</loc>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/post/20180825-loneliness/</loc>
     <lastmod>2018-08-26T00:48:48-04:00</lastmod>
   </url>
@@ -112,6 +117,12 @@
   <url>
     <loc>https://www.tuirgin.com/tags/bible/</loc>
     <lastmod>2018-07-10T21:58:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tuirgin.com/tags/birthdays/</loc>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -259,8 +270,14 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/john-keats/</loc>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/categories/journal/</loc>
-    <lastmod>2018-08-17T14:46:41-04:00</lastmod>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,6 +330,12 @@
   </url>
   
   <url>
+    <loc>https://www.tuirgin.com/tags/mortality/</loc>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tuirgin.com/tags/narnia/</loc>
     <lastmod>2018-07-10T22:58:31-04:00</lastmod>
     <priority>0</priority>
@@ -338,7 +361,7 @@
   
   <url>
     <loc>https://www.tuirgin.com/</loc>
-    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -356,13 +379,13 @@
   
   <url>
     <loc>https://www.tuirgin.com/tags/poetry/</loc>
-    <lastmod>2018-08-26T00:38:34-04:00</lastmod>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.tuirgin.com/post/</loc>
-    <lastmod>2018-08-26T00:48:48-04:00</lastmod>
+    <lastmod>2018-08-30T23:59:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
