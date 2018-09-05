@@ -9,10 +9,19 @@
     <managingEditor>blog@tuirgin.com (Christopher D. Walborn)</managingEditor>
     <webMaster>blog@tuirgin.com (Christopher D. Walborn)</webMaster>
     <copyright>&amp;copy; 2018 Christopher D. Walborn [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)</copyright>
-    <lastBuildDate>Thu, 15 Nov 2012 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.tuirgin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>America</title>
+      <link>https://www.tuirgin.com/tags/america/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0400</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/tags/america/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anastasia</title>
@@ -276,6 +285,15 @@
     </item>
     
     <item>
+      <title>Letter</title>
+      <link>https://www.tuirgin.com/tags/letter/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0400</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/tags/letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Loneliness</title>
       <link>https://www.tuirgin.com/tags/loneliness/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 -0400</pubDate>
@@ -398,6 +416,15 @@
       <pubDate>Sat, 14 Jul 2012 14:25:00 +0000</pubDate>
       <author>blog@tuirgin.com (Christopher D. Walborn)</author>
       <guid>https://www.tuirgin.com/tags/rabelais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race</title>
+      <link>https://www.tuirgin.com/tags/race/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0400</pubDate>
+      <author>blog@tuirgin.com (Christopher D. Walborn)</author>
+      <guid>https://www.tuirgin.com/tags/race/</guid>
       <description></description>
     </item>
     
